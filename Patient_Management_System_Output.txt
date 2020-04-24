@@ -1,0 +1,90 @@
+Choose the below any one option 
+ 1 to register a Patient 
+ 2 to update Patient details 
+ 3 to deactivate Patient details 
+ 4 to display Patient details
+1
+Enter Patient name:
+ srilekha
+Enter Patient Address:
+ nellore
+Enter Patient Age:
+20
+Enter Patient Sex: F or M
+f
+Enter Patient Illness:
+gg
+Enter the amount patient needs to pay for appointment:
+200
+Patient Registered Successfully !!!
+patient-ID 	 Patient-Name 	 Address 		 Age 	 Sex 	 Illness 	 Fees 	 Join-date
+1 		 srilekha 		 Miyapur,Hyderabad 	 40 	 m 	 Fever 		 250.0 	 2020/Apr/24 19:28:59
+2 		 Raja 		 Madhapur,Hyderabad 	 45 	 f 	 Cough 		 250.0 	 2020/Apr/24 19:28:59
+3 		 kavya 		 Hydernagar,Hyderabad 	 56 	 m 	 Cancer 		 250.0 	 2020/Apr/24 19:28:59
+4 		  srilekha 		  nellore 	 20 	 f 	 gg 		 200.0 	 2020/Apr/24 19:28:59
+Do you want to continue selecting options (y/n):
+y
+Choose the below any one option 
+ 1 to register a Patient 
+ 2 to update Patient details 
+ 3 to deactivate Patient details 
+ 4 to display Patient details
+4
+patient-ID 	 Patient-Name 	 Address 		 Age 	 Sex 	 Illness 	 Fees 	 Join-date
+1 		 srilekha 		 Miyapur,Hyderabad 	 40 	 m 	 Fever 		 250.0 	 2020/Apr/24 19:28:59
+2 		 Raja 		 Madhapur,Hyderabad 	 45 	 f 	 Cough 		 250.0 	 2020/Apr/24 19:28:59
+3 		 kavya 		 Hydernagar,Hyderabad 	 56 	 m 	 Cancer 		 250.0 	 2020/Apr/24 19:28:59
+4 		  srilekha 		  nellore 	 20 	 f 	 gg 		 200.0 	 2020/Apr/24 19:28:59
+Do you want to continue selecting options (y/n):
+y
+Choose the below any one option 
+ 1 to register a Patient 
+ 2 to update Patient details 
+ 3 to deactivate Patient details 
+ 4 to display Patient details
+2
+patient-ID 	 Patient-Name 	 Address 		 Age 	 Sex 	 Illness 	 Fees 	 Join-date
+1 		 srilekha 		 Miyapur,Hyderabad 	 40 	 m 	 Fever 		 250.0 	 2020/Apr/24 19:28:59
+2 		 Raja 		 Madhapur,Hyderabad 	 45 	 f 	 Cough 		 250.0 	 2020/Apr/24 19:28:59
+3 		 kavya 		 Hydernagar,Hyderabad 	 56 	 m 	 Cancer 		 250.0 	 2020/Apr/24 19:28:59
+4 		  srilekha 		  nellore 	 20 	 f 	 gg 		 200.0 	 2020/Apr/24 19:28:59
+Enter patient ID you want to update:
+2
+Enter 
+ 1 to change patient's name 
+ 2 to change patient's address 
+ 3 to change patient's age 
+ 4 to change patient's illness 
+ 5 to change registration fees along with the medical expenses
+1
+Enter new patient's name:
+mounika
+Patient updated !!!
+Do you want to continue updating (y/n):
+n
+Do you want to continue selecting options (y/n):
+y
+Choose the below any one option 
+ 1 to register a Patient 
+ 2 to update Patient details 
+ 3 to deactivate Patient details 
+ 4 to display Patient details
+4
+patient-ID 	 Patient-Name 	 Address 		 Age 	 Sex 	 Illness 	 Fees 	 Join-date
+1 		 srilekha 		 Miyapur,Hyderabad 	 40 	 m 	 Fever 		 250.0 	 2020/Apr/24 19:28:59
+2 		 mounika 		 Madhapur,Hyderabad 	 45 	 f 	 Cough 		 250.0 	 2020/Apr/24 19:28:59
+3 		 kavya 		 Hydernagar,Hyderabad 	 56 	 m 	 Cancer 		 250.0 	 2020/Apr/24 19:28:59
+4 		  srilekha 		  nellore 	 20 	 f 	 gg 		 200.0 	 2020/Apr/24 19:28:59
+Do you want to continue selecting options (y/n):
+y
+Choose the below any one option 
+ 1 to register a Patient 
+ 2 to update Patient details 
+ 3 to deactivate Patient details 
+ 4 to display Patient details
+3
+Enter Patient ID:
+4
+Patient has still days left before his appointment expires
+Do you want to continue selecting options (y/n):
+n
